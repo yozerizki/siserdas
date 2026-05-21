@@ -1,0 +1,43 @@
+# Unity generated folders
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Mm]emoryCaptures/
+
+# Asset meta data should be versioned
+!/[Aa]ssets/**/*.meta
+!/[Pp]ackages/**/*.meta
+
+# Visual Studio / Rider
+.vs/
+.idea/
+*.csproj
+*.sln
+*.suo
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+*.pdb
+*.mdb
+*.opendb
+*.VC.db
+
+# Unity package lock generated content remains versioned as needed
+# (Packages/manifest.json and Packages/packages-lock.json should be committed)
+
+# macOS
+.DS_Store
+
+# Keystore and secrets
+Keystore/
+*.keystore
+*.jks
+
+# Crash / profiler data
+sysinfo.txt
+*.stacktrace
